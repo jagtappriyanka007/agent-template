@@ -1,0 +1,11 @@
+{
+  "project_name": "Agent Service",
+  "project_slug": "agent-service",
+  "project_description": "FastAPI + LangGraph + LangChain + Cython service",
+  "python_version": "3.11",
+  "llm_provider": ["openai", "anthropic", "azure_openai"],
+  "openai_model": "gpt-4o-mini",
+  "anthropic_model": "claude-3-5-sonnet-latest",
+  "author_name": "Your Name",
+  "version": "0.1.0"
+}
